@@ -4,4 +4,6 @@
 
 ## 效果图
 
-<img alt="首页" src="./resources/normal.jpg"  width="32%" style="border:1px solid #ccc"><img alt="左滑" src="./resources/slidetoleft.jpg"  width="32%" style="border:1px solid #ccc"><img alt="长按" src="./resources/longpress.jpg"  width="32%" style="border:1px solid #ccc">
+| ![首页](./resources/normal.jpg) | ![左滑](./resources/slidetoleft.jpg) | ![长按](./resources/longpress.jpg) |
+| :---: | :---: | :---: |
+| 首页 | 左滑任务 | 长按任务 |
