@@ -3,6 +3,7 @@
 > 微信小程序 简易待办事项管理
 
 ## 效果图
-![首页](./resources/normal.jpg)
-![左滑](./resources/slidetoleft.jpg)
-![长按](./resources/longpress.jpg)
+
+<img alt="首页" src="./resources/normal.jpg"  width="33%" style="border:1px solid #ccc">
+<img alt="左滑" src="./resources/slidetoleft.jpg"  width="33%" style="border:1px solid #ccc">
+<img alt="长按" src="./resources/longpress.jpg"  width="33%" style="border:1px solid #ccc">
